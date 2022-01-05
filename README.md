@@ -2,7 +2,7 @@
 - 👀 I’m interested in cryptocurrency
 - 🌱 I’m currently learning cryptocurrency
 - 💞️ I’m looking to collaborate on airdrop
-- 📫 How to reach me @OSSDAO-ORG•AIRDROP-0xd3c6a99a4D1F1CF3B74aCd4F65857A20926e5481
+- 📫 How to reach me https://github.com/ismeteffendi
 
 <!---
 ismeteffendi/ismeteffendi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
